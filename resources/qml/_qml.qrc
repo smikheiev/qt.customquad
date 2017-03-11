@@ -2,5 +2,6 @@
     <qresource prefix="/">
         <file>main.qml</file>
         <file>CustomQuadTest.qml</file>
+        <file>CustomQuadMaskedImageTest.qml</file>
     </qresource>
 </RCC>
