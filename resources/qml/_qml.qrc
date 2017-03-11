@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CustomQuadTest.qml</file>
+    </qresource>
+</RCC>
